@@ -1,1 +1,0 @@
-set("hours",30*new Date().getHours());set("minutes",6*new Date().getMinutes());set("seconds",10*new Date().getSeconds());function set(g,h){var e=document.getElementById(g),f="rotate("+h+"deg)";e.style.transform=f;e.style.webkitTransform=f};
